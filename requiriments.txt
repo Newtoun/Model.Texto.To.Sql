@@ -1,0 +1,1 @@
+!pip install -q transformers==4.41.2 torch==2.3.0 accelerate==0.30.1 bitsandbytes==0.43.1 datasets==2.19.1 peft==0.10.0 trl==0.8.6 deepeval==0.21.12 einops==0.8.0
